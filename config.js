@@ -1,7 +1,8 @@
 module.exports = {
   allowedOrigins: [
-    'https://meusite.com',
-    'http://localhost:3000'
+    'https://strikedev.site',
+    'https://www.strikedev.site',
+    'https://strikedev.vercel.app'
   ],
   protectedFolder: '.files'
 }
